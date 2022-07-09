@@ -1,0 +1,15 @@
+C:\Users\Hp\source\repos\myWebapi2\Bookstore.repository\bin\Debug\net5.0\Bookstore.repository.deps.json
+C:\Users\Hp\source\repos\myWebapi2\Bookstore.repository\bin\Debug\net5.0\Bookstore.repository.dll
+C:\Users\Hp\source\repos\myWebapi2\Bookstore.repository\bin\Debug\net5.0\Bookstore.repository.pdb
+C:\Users\Hp\source\repos\myWebapi2\Bookstore.repository\bin\Debug\net5.0\Bookstore.Models.dll
+C:\Users\Hp\source\repos\myWebapi2\Bookstore.repository\bin\Debug\net5.0\Bookstore.Models.pdb
+C:\Users\Hp\source\repos\myWebapi2\Bookstore.repository\obj\Debug\net5.0\Bookstore.repository.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\myWebapi2\Bookstore.repository\obj\Debug\net5.0\Bookstore.repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\myWebapi2\Bookstore.repository\obj\Debug\net5.0\Bookstore.repository.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\myWebapi2\Bookstore.repository\obj\Debug\net5.0\Bookstore.repository.AssemblyInfo.cs
+C:\Users\Hp\source\repos\myWebapi2\Bookstore.repository\obj\Debug\net5.0\Bookstore.repository.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\myWebapi2\Bookstore.repository\obj\Debug\net5.0\Bookstore.repository.csproj.CopyComplete
+C:\Users\Hp\source\repos\myWebapi2\Bookstore.repository\obj\Debug\net5.0\Bookstore.repository.dll
+C:\Users\Hp\source\repos\myWebapi2\Bookstore.repository\obj\Debug\net5.0\refint\Bookstore.repository.dll
+C:\Users\Hp\source\repos\myWebapi2\Bookstore.repository\obj\Debug\net5.0\Bookstore.repository.pdb
+C:\Users\Hp\source\repos\myWebapi2\Bookstore.repository\obj\Debug\net5.0\ref\Bookstore.repository.dll
